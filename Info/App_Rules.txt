@@ -1,1 +1,3 @@
-
+1. You can't change Form_1pads base code in anyway
+2. You can't make the app download anything from the internet
+3. You can't make the app start a program outside of the program 
