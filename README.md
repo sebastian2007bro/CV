@@ -1,10 +1,10 @@
 # Sebs SW CV
 HI, This is Sebs SW CV.
 
-# Next Version
+## Next Version
 Hi. After 3 years, i have decided to end this project. But i'm working on a new project, and it will be based on Sebs SW CV. The project's will be Project Anna.
 
-# Will Sebs SW CV 3.3 still get updates?
+## Will Sebs SW CV 3.3 still get updates?
 
 Yes.
 
