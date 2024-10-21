@@ -8,14 +8,14 @@ Hi. After 3 years, i have decided to end this project. But i'm working on a new 
 
 Yes.
 
-# Will Sebs SW CV 3.4 come out?
+## Will Sebs SW CV 3.4 come out?
 
 No. I do have beta files for it. But the program itself is really buggy.
 
-# Why are you ending the project?
+## Why are you ending the project?
 
 It's not fun to code it anymore.
 
-# Will you make it open source?
+## Will you make it open source?
 
 No. As i will use the files for Project Anna.
