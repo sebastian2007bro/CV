@@ -1,3 +1,9 @@
+15/04/2024
 1. You can't change Form_1pads base code in anyway
 2. You can't make the app download anything from the internet
 3. You can't make the app start a program outside of the program 
+
+17/03/2025
+1. The App is only allowed to use Subs/Functions that are contained within "Allowed_Subs_And_Functions.txt"
+2. The App is not allowed to change values of forms that are not created by same person.
+3. The App is not allowed to download content from the internet.
