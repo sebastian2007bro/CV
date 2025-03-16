@@ -1,5 +1,5 @@
 ## Sebs SW CV
-HI, This is my main project, it's called "Sebs SW CV". This program contains an GUI and has Internet++ version 4.0.
+HI, This is my main project, it's called "Sebs SW CV". This program contains an GUI and has an Internet Browser.
 ## What does this program contain?
 1. Internet Browser.
 2. Picture Viewer.
