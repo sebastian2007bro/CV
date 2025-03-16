@@ -1,0 +1,15 @@
+UI:
+ColorSaver(ColorC As Color)
+Colorloader()
+StartQuickEdit(Optional office As String = "None")
+StartFileExplorer()
+ErrorForm(_1 As Boolean, _2 As String, _3 As Boolean) |
+StartCMD(Value As String)
+Start_Form44(Optional Text_ As String = "")
+UI_CMD_Commands(RichTextBox1 As RichTextBox, ForExitcommand As String)
+StartSWStore()
+StartSettings(Optional InternalPath As String = "settings")
+StartRun()
+SWStoremgr(todo As String, Appname As String, Optional OpenedIn As String = "") | This sub is going open source soon.
+Run(Run_ As String)
+GetProgramVersionAsString() | Allow the app to get the programs version.
